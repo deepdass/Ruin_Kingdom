@@ -1,4 +1,4 @@
-A game I made cause i wanted to try making a zone based RPG
+A game I made cause i wanted to try making a zone based RPG and learn more about unreal
 
 I love how it turned out, tho I think the lighting might be a bit too dark
 
